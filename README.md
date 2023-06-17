@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santiago Meneses</h1>
+<h1 align="center">Hi 👋, I'm @ztysan</h1>
 <h3 align="center">I am a 19-year-old Colombian student pursuing a degree in Mechatronics Engineering, and I am actively involved in the Oracle ONE program, specializing in front-end development. Throughout my studies, I have developed a strong passion for mechatronics, encompassing electronics, mechanics, and programming. Being a participant in the Oracle ONE program has provided me with valuable skills in front-end development. I have gained expertise in creating visually appealing and functional interfaces using programming languages such as HTML, CSS, and JavaScript. I am eager to continue learning and growing in this field, and I am ready to apply my skills and knowledge to innovative and challenging projects. 
 </h3>
 
